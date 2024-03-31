@@ -86,7 +86,6 @@ def submit_transaction():
     if not all(k in values for k in required):
         return 'Missing values', 400
 
-    # Cria uma nova transação
     index = blockchain.new_transaction(values['sender_wallet_address'], values['recipient'], values['amount'], values['signature'])
 
     response = {'message': f'Transaction will be added to Block {index}'}
