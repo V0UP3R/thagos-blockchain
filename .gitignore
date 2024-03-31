@@ -1,0 +1,18 @@
+# Arquivos de ambiente
+.env
+
+# Arquivos de byte compilado Python
+*.pyc
+__pycache__/
+
+# Arquivos de registro
+*.log
+
+# Arquivos de backup
+*~
+
+# Arquivos de banco de dados SQLite
+*.sqlite
+*.db
+
+/venv
