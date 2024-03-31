@@ -1,12 +1,12 @@
-# Thagos Blockchain
+# Tormentor: Uma Simples Blockchain em Python
 
-Este é um projeto simples de uma blockchain em Python, chamada Thagos Blockchain, usando Flask para criar uma interface de comunicação.
+Este é um projeto simples de uma blockchain em Python, chamada Tormentor, usando Flask para criar uma interface de comunicação.
 
 ## Funcionamento
 
-A Thagos Blockchain é uma implementação básica de uma blockchain com as seguintes funcionalidades:
+A Tormentor Blockchain é uma implementação básica de uma blockchain com as seguintes funcionalidades:
 
-1. **Mineração de Blocos**: Os novos blocos são adicionados à blockchain por meio de um processo de mineração, onde os mineradores resolvem um desafio computacional difícil para encontrar um novo bloco válido.
+1. **Mineração de Blocos**: Novos blocos são adicionados à blockchain por meio de um processo de mineração, onde os mineradores resolvem um desafio computacional difícil para encontrar um novo bloco válido.
 
 2. **Transações**: Os usuários podem criar transações, que são agrupadas em blocos e adicionadas à blockchain. Cada transação inclui o remetente, destinatário e a quantidade de moeda transferida.
 
@@ -17,8 +17,8 @@ A Thagos Blockchain é uma implementação básica de uma blockchain com as segu
 1. **Instalação**: Clone este repositório em sua máquina local.
 
     ```bash
-    git clone https://github.com/V0UP3R/thagos-blockchain.git
-    cd thagos-blockchain
+    git clone https://github.com/V0UP3R/tormentor.git
+    cd tormentor
     ```
 
 2. **Configuração do Ambiente Virtual**:
@@ -81,4 +81,4 @@ A Thagos Blockchain é uma implementação básica de uma blockchain com as segu
 
 ## Considerações Finais
 
-Este é um projeto básico para entender os conceitos fundamentais de uma blockchain. Ele não inclui recursos avançados como segurança robusta, persistência de dados, consenso de rede, entre outros. Sinta-se à vontade para explorar, experimentar e expandir este projeto de acordo com suas necessidades e interesses.
+A Tormentor Blockchain é um projeto em constante evolução. Estamos comprometidos em melhorar continuamente nossa tecnologia, implementar novos recursos e aprimorar a segurança e a eficiência da nossa blockchain. Agradecemos a todos os nossos colaboradores, parceiros e comunidade por seu apoio contínuo neste emocionante percurso. Juntos, estamos construindo um futuro descentralizado e resiliente. Se você deseja contribuir ou acompanhar nosso progresso, sinta-se à vontade para nos acompanhar em nossos canais oficiais. Obrigado por fazer parte desta jornada!
